@@ -1,1 +1,1 @@
-# toki-brigdge-evm-contracts-sdk
+# toki-bridge-evm-contracts-sdk
